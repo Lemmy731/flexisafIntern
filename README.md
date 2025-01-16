@@ -1,0 +1,1 @@
+This repository contains projects, tasks, and exercises completed as part of the FlexiSAF Backend Internship program. The internship focuses on mastering Java and applying it to backend development practices.:
